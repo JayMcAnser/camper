@@ -11,11 +11,11 @@ please contact me and the information will be removed
 
 
 ## Crafter sy (2018 - 2024) / MAN TGE
-
+* [Price lists (dutch)](/Crafter%20sy%20-%20MAN%20TGE)
 
 
 ## Ford Transit (mark 8)
-* [prize lists (dutch)](https::/Crafter sy - MAN TGE)
+
 
 
 last update 1 dec 2025
