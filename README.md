@@ -21,6 +21,7 @@ please contact me and the information will be removed
 * [Body and Equipment Mounting Manual - 2024.pdf](Ford%20Transit/Technics/Body%20and%20Equipment%20Mounting%20Manual%20-%202024.pdf)]
 * [Body and Equipment Mounting Manual FORD TRANSIT 2019 (us).pdf](Ford%20Transit/Technics/Body%20and%20Equipment%20Mounting%20Manual%20FORD%20TRANSIT%202019%20%28us%29.pdf)
 * [Body Builder Layout Book.pdf](Ford%20Transit/Technics/Body%20Builder%20Layout%20Book.pdf)
+* [test](https://github.com/JayMcAnser/camper/raw/main/Crafter%20v1/Technics/Crafter%20-%20Body%20builder%20guidelines%202008.pdf)
 
 last update 1 dec 2025
 
