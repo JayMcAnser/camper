@@ -11,8 +11,12 @@ please contact me and the information will be removed
 
 
 ## Crafter sy (2018 - 2024) / MAN TGE
-* [Prijslijst-2024-MAN-TGE-Gesloten-Bestel.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE/Price/Prijslijst-2024-MAN-TGE-Gesloten-Bestel.pdf)
-* [prijslijst-tge-gesloten-bestel-1-januari-2023.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE/Price/prijslijst-tge-gesloten-bestel-1-januari-2023.pdf)
+Tech
+* [Man - full drawing.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FMan%20-%20full%20drawing.pdf)
+* [CanBus VW group SSP_269_d1.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fcanbus%20VW%20group%20SSP_269_d1.pdf)
+
+
+[Price](Crafter%20sy%20-%20MAN%20TGE%2FPrice)
 
 ## Crafter 1 (2006 - 2018)
 * [Crafter - Body builder guidelines 2008.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20v1/Technics/Crafter%20-%20Body%20builder%20guidelines%202008.pdf)
