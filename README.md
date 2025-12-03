@@ -46,6 +46,10 @@ please contact me and the information will be removed
 * [Autark-runner.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2FAutark-runner.pdf)
 * [Mercedes Sprinter maten maart 2017.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2FMercedes%20Sprinter%20maten%20maart%202017.pdf)
 
+## Fiat Ducato
+* [wk2817-peugeot-boxer-accessoires-9501-79f7eb.272750.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk2817-peugeot-boxer-accessoires-9501-79f7eb.272750.pdf)
+* [wk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf)
+* [wk5217-peugeot-boxer-accessoires-prijslijst.364282.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk5217-peugeot-boxer-accessoires-prijslijst.364282.pdf)
 
 last update 3 dec 2025
 
