@@ -25,6 +25,10 @@ please contact me and the information will be removed
 ### Price
 * [Prices in The Netherlands](Crafter%20sy%20-%20MAN%20TGE%2FPrice)
 
+### Images
+* [Images](Crafter%20sy%20-%20MAN%20TGE%2FImages)
+
+
 ## Crafter 1 (2006 - 2018)
 * [Crafter - Body builder guidelines 2008.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20v1/Technics/Crafter%20-%20Body%20builder%20guidelines%202008.pdf)
 
@@ -34,6 +38,6 @@ please contact me and the information will be removed
 * [Body Builder Layout Book.pdf](https://github.com/JayMcAnser/camper/raw/main/Ford%20Transit/Technics/Body%20Builder%20Layout%20Book.pdf)
 * [test](https://github.com/JayMcAnser/camper/raw/main/Crafter%20v1/Technics/Crafter%20-%20Body%20builder%20guidelines%202008.pdf)
 
-last update 2 dec 2025
+last update 3 dec 2025
 
 
