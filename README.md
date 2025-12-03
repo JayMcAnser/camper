@@ -36,7 +36,16 @@ please contact me and the information will be removed
 * [Body and Equipment Mounting Manual - 2024.pdf](https://github.com/JayMcAnser/camper/raw/main/Ford%20Transit/Technics/Body%20and%20Equipment%20Mounting%20Manual%20-%202024.pdf)]
 * [Body and Equipment Mounting Manual FORD TRANSIT 2019 (us).pdf](https://github.com/JayMcAnser/camper/raw/main/Ford%20Transit/Technics/Body%20and%20Equipment%20Mounting%20Manual%20FORD%20TRANSIT%202019%20%28us%29.pdf)
 * [Body Builder Layout Book.pdf](https://github.com/JayMcAnser/camper/raw/main/Ford%20Transit/Technics/Body%20Builder%20Layout%20Book.pdf)
-* [test](https://github.com/JayMcAnser/camper/raw/main/Crafter%20v1/Technics/Crafter%20-%20Body%20builder%20guidelines%202008.pdf)
+
+## Mercedes Sprinter
+* [144_Top_View_Template.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2F144_Top_View_Template.pdf)
+* [170_EXT_Profile_Template.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2F170_EXT_Profile_Template.pdf)
+* [170_EXT_Top_View_Template.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2F170_EXT_Top_View_Template.pdf)
+* [170_Profile_Template.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2F170_Profile_Template.pdf)
+* [170_Top_View_Template.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2F170_Top_View_Template.pdf)
+* [Autark-runner.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2FAutark-runner.pdf)
+* [Mercedes Sprinter maten maart 2017.pdf](https://github.com/JayMcAnser/camper/raw/main/Mercedes%2FTechnics%2FMercedes%20Sprinter%20maten%20maart%202017.pdf)
+
 
 last update 3 dec 2025
 
