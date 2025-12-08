@@ -58,6 +58,10 @@ please contact me and the information will be removed
 * [wk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf)
 * [wk5217-peugeot-boxer-accessoires-prijslijst.364282.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk5217-peugeot-boxer-accessoires-prijslijst.364282.pdf)
 
-last update 3 dec 2025
+
+Other information that was found and shared:
+* [Documentation](https://github.com/JayMcAnser/camper/raw/others.md)
+
+last update 8 dec 2025
 
 
