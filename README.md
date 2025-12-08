@@ -60,7 +60,7 @@ please contact me and the information will be removed
 
 
 Other information that was found and shared:
-* [Documentation](https://github.com/JayMcAnser/camper/raw/others.md)
+* [Documentation](others.md)
 
 last update 8 dec 2025
 
