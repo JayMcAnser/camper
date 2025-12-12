@@ -53,6 +53,10 @@ please contact me and the information will be removed
 * [Battery fuses - front](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FBattery%20fuses.JPG)
 * [Battery post - explain](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FBattery%20post.JPG)
 
+### Others
+* [MaxxAir Fan roof adapter](Crafter%20sy%20-%20MAN%20TGE/Utils/MaxxAir/roof%20window%20adapter%20%28MAXXFAN%2C%20MINI%20HEKI%29%20-%206412677)
+
+
 ## Fiat Ducato
 * [wk2817-peugeot-boxer-accessoires-9501-79f7eb.272750.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk2817-peugeot-boxer-accessoires-9501-79f7eb.272750.pdf)
 * [wk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf](https://github.com/JayMcAnser/camper/raw/main/Fiat%20Ducato%2Fwk2817-peugeot-boxer-modelbrochure-11971-f835c0.272748.pdf)
@@ -62,6 +66,6 @@ please contact me and the information will be removed
 Other information that was found and shared:
 * [Documentation](others.md)
 
-last update 8 dec 2025
+last update 12 dec 2025
 
 
