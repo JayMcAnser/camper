@@ -38,6 +38,7 @@ please contact me and the information will be removed
 * [Auxiliary Heater](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-auxiliary-heater-eng.pdf)
 * [Communications](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-communication-eng.pdf)
 * [Wireing Diagram - Fuse assignment](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-wd-eng.pdf)
+* [Body and occupant protection](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/pps_568_vw_crafter_2017_body_and_occupant_protection_eng.pdf)
 
 
 ### Tech
