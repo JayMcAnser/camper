@@ -42,6 +42,7 @@ please contact me and the information will be removed
 * [Factory-installed accessories and conversions](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/volkswagen-factory-installed-accessories-and-conversions-eng.pdf)
 * [General body repairs, interior](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-body-repairs-interior-eng.pdf)
 * [General body repairs, exterior](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-body-repairs-exterior-eng.pdf)
+* [8-speed automatic gearbox 0DR](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-8-speed-automatic-gearbox-0dr-eng.pdf)
 
 
 ### Tech
