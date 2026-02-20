@@ -31,13 +31,20 @@ please contact me and the information will be removed
 
 
 ## Crafter sy (2018 - 2024) / MAN TGE
+### identification (links to web pages)
+* [How to identify the type of vehicals](https://vwts.ru/complect.html)
+
+### Workshop Manuals
+* [Auxiliary Heater](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-auxiliary-heater-eng.pdf)
+* [Communications](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-communication-eng.pdf)
+* [Wireing Diagram - Fuse assignment](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-wd-eng.pdf)
+
+
 ### Tech
 * [Man - full drawing.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FMan%20-%20full%20drawing.pdf)
 * [Man - DXF Zip file of full drawing](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2F7C0_000_011____DRW_N2D_012_003_BMZ_CNF-TGE_KASTEN_MIT_E-CNF___12052022.dxf.zip)
 * [CanBus VW group SSP_269_d1.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fcanbus%20VW%20group%20SSP_269_d1.pdf)
 * [Technische gegevens Crafter Bestelwagen.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2F20200804%20Technische%20gegevens%20Crafter%20Bestelwagen.pdf)
-* [Workshop Manual Crafter - Auxiliary Heater](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-auxiliary-heater-eng.pdf)
-* [Workshop Manual Crafter - Communications](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-communication-eng.pdf)
 * [crafter-technische-specificaties-september-2019.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fcrafter-technische-specificaties-september-2019.pdf)
 * [Dimension-Drawings-Crafter-Panel.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FDimension-Drawings-Crafter-Panel.pdf)
 * [MAN - Technische gegevens. Geldig vanaf Augustus 2022.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FMAN%20-%20Technische%20gegevens.%20Geldig%20vanaf%20Augustus%202022.pdf)
