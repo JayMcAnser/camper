@@ -2,6 +2,7 @@
 
 version 1.0
 
+## url: https://github.com/JayMcAnser/camper
 ## Purpose
 The purpose of this project is to share information about the different
 vans / models so building a camper would become more documented//github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fseikel.de%20lift%20kit%20crafter-eh.pdf)
@@ -35,7 +36,7 @@ please contact me and the information will be removed
 * [Man - DXF Zip file of full drawing](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2F7C0_000_011____DRW_N2D_012_003_BMZ_CNF-TGE_KASTEN_MIT_E-CNF___12052022.dxf.zip)
 * [CanBus VW group SSP_269_d1.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fcanbus%20VW%20group%20SSP_269_d1.pdf)
 * [Technische gegevens Crafter Bestelwagen.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2F20200804%20Technische%20gegevens%20Crafter%20Bestelwagen.pdf)
-* [Workshop Manual Crafter 2017](https://github.com/JayMcAnser/camper/raw/main/vw-crafter-2-auxiliary-heater-eng.pdf)
+* [Workshop Manual Crafter 2017](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-auxiliary-heater-eng.pdf)
 * [crafter-technische-specificaties-september-2019.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2Fcrafter-technische-specificaties-september-2019.pdf)
 * [Dimension-Drawings-Crafter-Panel.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FDimension-Drawings-Crafter-Panel.pdf)
 * [MAN - Technische gegevens. Geldig vanaf Augustus 2022.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FMAN%20-%20Technische%20gegevens.%20Geldig%20vanaf%20Augustus%202022.pdf)
