@@ -46,6 +46,7 @@ please contact me and the information will be removed
 * [Brake systems](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-brake-systems-eng.pdf)
 * [Running gear, axles, steering](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-running-gear-axles-steering-eng.pdf)
 * [Fuel supply system - Diesel engines](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-fuel-supply-system-diesel-engines-eng.pdf)
+* [Heating, air conditioner](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-heating-air-conditioner-eng.pdf)
 
 
 ### Tech
