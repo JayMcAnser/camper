@@ -1,6 +1,6 @@
 # Camper Documentation
 
-version 1.0
+version 1.1
 
 ## url: https://github.com/JayMcAnser/camper
 ## Purpose
@@ -35,19 +35,18 @@ please contact me and the information will be removed
 * [How to identify the type of vehicals](https://vwts.ru/complect.html)
 
 ### Workshop Manuals
+* [8-speed automatic gearbox 0DR](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-8-speed-automatic-gearbox-0dr-eng.pdf)
 * [Auxiliary Heater](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-auxiliary-heater-eng.pdf)
-* [Communications](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-communication-eng.pdf)
-* [Wireing Diagram - Fuse assignment](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-wd-eng.pdf)
 * [Body and occupant protection](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/pps_568_vw_crafter_2017_body_and_occupant_protection_eng.pdf)
+* [Brake systems](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-brake-systems-eng.pdf)
+* [Communications](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-communication-eng.pdf)
 * [Factory-installed accessories and conversions](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/volkswagen-factory-installed-accessories-and-conversions-eng.pdf)
+* [Fuel supply system - Diesel engines](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-fuel-supply-system-diesel-engines-eng.pdf)
 * [General body repairs, interior](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-body-repairs-interior-eng.pdf)
 * [General body repairs, exterior](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-body-repairs-exterior-eng.pdf)
-* [8-speed automatic gearbox 0DR](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-8-speed-automatic-gearbox-0dr-eng.pdf)
-* [Brake systems](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-brake-systems-eng.pdf)
-* [Running gear, axles, steering](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-running-gear-axles-steering-eng.pdf)
-* [Fuel supply system - Diesel engines](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-fuel-supply-system-diesel-engines-eng.pdf)
 * [Heating, air conditioner](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-heating-air-conditioner-eng.pdf)
-
+* [Running gear, axles, steering](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-running-gear-axles-steering-eng.pdf)
+* [Wireing Diagram - Fuse assignment](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-wd-eng.pdf)
 
 ### Tech
 * [Man - full drawing.pdf](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic%2FMan%20-%20full%20drawing.pdf)
