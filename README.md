@@ -40,6 +40,7 @@ please contact me and the information will be removed
 * [Wireing Diagram - Fuse assignment](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-wd-eng.pdf)
 * [Body and occupant protection](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/pps_568_vw_crafter_2017_body_and_occupant_protection_eng.pdf)
 * [Factory-installed accessories and conversions](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/volkswagen-factory-installed-accessories-and-conversions-eng.pdf)
+* [General body repairs, interior](https://github.com/JayMcAnser/camper/raw/main/Crafter%20sy%20-%20MAN%20TGE%2FTechnic/vw-crafter-2-body-repairs-interior-eng.pdf)
 
 
 ### Tech
